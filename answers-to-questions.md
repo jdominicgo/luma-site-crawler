@@ -11,11 +11,13 @@ Currently, just to recap Luma allows you to manage and invite individual members
 3. Open the People tab
 4. Add members
 
-<img width="1436" alt="Screenshot 2025-01-25 at 3 32 41 PM" src="https://gist.github.com/user-attachments/assets/9cf54487-ed47-4001-962d-f56056515abe" />
+
+
+![Screenshot](https://gist.github.com/user-attachments/assets/9cf54487-ed47-4001-962d-f56056515abe)
 
 Among the options, you can import members using a CSV file, where you can organize and group them by tags beforehand. If this might help, I’d be happy to provide further details or steps!
 
-<img width="1320" alt="Screenshot 2025-01-25 at 3 29 05 PM" src="https://gist.github.com/user-attachments/assets/253445ef-9320-4eb5-969f-2d546e351ad5" />
+![Screenshot](https://gist.github.com/user-attachments/assets/253445ef-9320-4eb5-969f-2d546e351ad5)
 
 Here's a concise CSV import example for adding multiple people to your Luma calendar:
 
@@ -31,9 +33,9 @@ Michael Wong,michael.wong@example.com
 
 After the import, the people you added will be available when you create a new event. You can invite multiple members, filter by tags, and sort by various criteria.
 
-<img width="1436" alt="Screenshot 2025-01-25 at 4 02 51 PM" src="https://gist.github.com/user-attachments/assets/14e17cf4-d93b-4e92-a867-0a1b3998eab2" />
+![Screenshot](https://gist.github.com/user-attachments/assets/14e17cf4-d93b-4e92-a867-0a1b3998eab2)
 
-<img width="1436" alt="Screenshot 2025-01-25 at 4 05 27 PM" src="https://gist.github.com/user-attachments/assets/59d54d28-ab08-4185-9000-e4c02607a149" />
+![Screenshot](https://gist.github.com/user-attachments/assets/59d54d28-ab08-4185-9000-e4c02607a149)
 
 Please feel free to check out more details in the [Managing Calendar Members](https://help.lu.ma/p/helpart-hPIjHeyxSzFSXLu/managing-calendar-members) guide. Let me know if you have any other questions!
 
@@ -81,7 +83,7 @@ Yes, you can use one Stripe account for multiple Luma accounts. When setting up 
 
 In general, If you already have an existing stripe account associated to your email, during the linking process, Stripe will ask you if you want to use your existing registered business, or create a new one. This is true whether or not you created a stripe account through Luma. As such, you can keep reusing the same Stripe account in most platforms (including Luma).
 
-<img width="1436" alt="Screenshot 2025-01-25 at 4 51 01 PM" src="https://gist.github.com/user-attachments/assets/4f21a997-2042-4b82-8b5a-2a772ffc8cf7" />
+![Screenshot](https://gist.github.com/user-attachments/assets/4f21a997-2042-4b82-8b5a-2a772ffc8cf7)
 
 If you’re managing multiple Luma accounts and would like to merge them for easier access, you can follow this guide: [Merging Luma Accounts](https://help.lu.ma/p/helpart-Wq1ZG1jM8av2RdP/merging-luma-accounts). This will help you consolidate your accounts into one.
 
